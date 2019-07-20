@@ -13,3 +13,6 @@
 [submodule "sources/poky"]
 	path = sources/poky
 	url = git://git.yoctoproject.org/poky.git
+[submodule "sources/meta-hubshuffle"]
+	path = sources/meta-hubshuffle
+	url = https://github.com/hubshuffle/meta-hubshuffle.git
